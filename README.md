@@ -4,7 +4,8 @@
 
 ### ​OVERVIEW
 
-​A comprehensive collection of backend projects built with Node.js.
+​A comprehensive collection of backend projects built with Node.js. 
+
 This repository serves as direct proof of my ability to design,
 and manage complex API structures and server-side logic.
 
