@@ -1,5 +1,6 @@
 # ALX BACKEND JAVASCRIPT
-​## 🚀 NODE.JS & JAVASCRIPT ARCHITECTURE
+
+## NODE.JS & JAVASCRIPT ARCHITECTURE
 
 ### ​OVERVIEW
 
@@ -12,7 +13,7 @@ and manage complex API structures and server-side logic.
 * ​SYSTEM SCALABILITY: Engineered workflows to support high-performance backend operations.
 * ​API INTEGRATION: Seamlessly connecting database management (SQL/NoSQL) with efficient server logic.
 
-​### TECH STACK
-​* Runtime: Node.js / JavaScript
+### TECH STACK
+* Runtime: Node.js / JavaScript
 ​* Database: SQL & NoSQL Management
 * ​Focus: API Development & Integration 
