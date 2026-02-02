@@ -5,7 +5,6 @@
 ### ​OVERVIEW
 
 ​A comprehensive collection of backend projects built with Node.js. 
-
 This repository serves as direct proof of my ability to design,
 and manage complex API structures and server-side logic.
 
@@ -15,6 +14,6 @@ and manage complex API structures and server-side logic.
 * ​API INTEGRATION: Seamlessly connecting database management (SQL/NoSQL) with efficient server logic.
 
 ### TECH STACK
-* Runtime: Node.js / JavaScript
-​* Database: SQL & NoSQL Management
+* Runtime: Node.js / Javascript.
+* Database: SQL & NoSQL Management
 * ​Focus: API Development & Integration 
